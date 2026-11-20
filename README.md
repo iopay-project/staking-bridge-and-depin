@@ -44,7 +44,7 @@ The writing takes the chain's own mechanics as the subject rather than the appli
 3. [IoTeX Unstaking Period Explained](iotex-unstaking-period-explained-for-iopay-users.md) - why unstaking and withdrawing are separate actions.
 4. [How to Use the IoTube Bridge](how-to-use-the-iotube-bridge-in-iopay-wallet.md) - the route, the two gas costs and the status tracker.
 
-## How to use these guides
+## How to use these guides?
 
 1. **Read the staking page before you delegate**, even if you have staked on another chain; the duration steps and the lock behaviour are specific here.
 2. **Compare validators on uptime and commission**, then check the unstaking rules before committing to a long duration.
